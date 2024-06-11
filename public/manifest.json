@@ -1,0 +1,17 @@
+{
+    "name": "Mi tienda",
+    "short_name": "Mi tienda",
+    "start_url": "/index.php",
+    "background_color": "#ffffff",
+    "description": "description mi tienda",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "icon.PNG",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
